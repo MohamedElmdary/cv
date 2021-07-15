@@ -87,22 +87,19 @@ workflow for the entire team.
     <sup><a href="https://protected-basin-72892.herokuapp.com/" target="_blank">
     https://protected-basin-72892.herokuapp.com/
     </a></sup>  
-     <strong>Description: </strong>A Project that allow users to track their achievements and helping them to lose their bad habits or start some good habits.
-
+     <strong>Description: </strong>A Project that allow users to track their achievements and helping them to lose their bad habits or start some good habits.  
     <strong>Tools: </strong>Node JS, Graphql, Prisma & Graphql Yoga
 
 -   ### Online Judge
 
     <sup><a href="http://online-judge-dev.herokuapp.com/" target="_blank">http://online-judge-dev.herokuapp.com/</a></sup>  
-     <strong>Description: </strong>My graduation project which trying to improve the programming skills of our users by providing pre-defined problems created by programming experts.
-
+     <strong>Description: </strong>My graduation project which trying to improve the programming skills of our users by providing pre-defined problems created by programming experts.  
     <strong>Tools: </strong> Angular, Docker, Node JS, Python, Microservices & Kafka.
 
 -   ### Mern Blog
 
     <sup><a href="https://react-socialapp.herokuapp.com/" target="_blank">https://react-socialapp.herokuapp.com/</a></sup>  
-     <strong>Description: </strong>A blog site which allows users to interact with each other by sharing posts or replay to a post and follow other users.
-
+     <strong>Description: </strong>A blog site which allows users to interact with each other by sharing posts or replay to a post and follow other users.  
     <strong>Tools: </strong> React, Redux, Node JS & Express JS.
 
 ## Operating System
