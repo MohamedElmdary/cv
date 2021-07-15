@@ -1,7 +1,3 @@
----
-title: Mohamed Rabie Elmdary | CV
----
-
 # Mohamed Rabie Elmdary
 
 4st Algalban, Algharbia, Egypt.  
