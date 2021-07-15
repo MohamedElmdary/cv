@@ -10,9 +10,7 @@ mohammed.elmdary@gmail.com
 
 ## Objective
 
-&nbsp;&nbsp;&nbsp;&nbsp;Seeking an opportunity to participate in collaborating, competitive and creative environment where I can use my experience gained from working as a
-freelancer in different types of application which should enhance the overall
-workflow for the entire team.
+Seeking an opportunity to participate in a collaborating, competitive and creative environment where I can use my experience gained from working as a freelancer in different types of applications which should enhance the overall workflow for the entire team.
 
 ## Skills Summary
 
@@ -34,7 +32,7 @@ workflow for the entire team.
 
     -   Envato Market [2017 / 2018]  
         <sup>Front End Developer</sup>  
-        Creating static websites which allow users to show contents for advertisements or showing personal information.
+        Creating static websites which allow users to show contents about advertisements or personal information.
 
     -   FreeLancer [2018 / 2019]  
         <sup>Mean Stack Developer</sup>  
@@ -87,31 +85,28 @@ workflow for the entire team.
     <sup><a href="https://protected-basin-72892.herokuapp.com/" target="_blank">
     https://protected-basin-72892.herokuapp.com/
     </a></sup>  
-     <strong>Description: </strong>A Project that allow users to track their achievements and helping them to lose their bad habits or start some good habits.  
+     <strong>Description: </strong>A Project that allows users to track their achievements and helps them to lose their bad habits or start some good habits.  
     <strong>Tools: </strong>Node JS, Graphql, Prisma & Graphql Yoga
 
 -   ### Online Judge
 
     <sup><a href="http://online-judge-dev.herokuapp.com/" target="_blank">http://online-judge-dev.herokuapp.com/</a></sup>  
-     <strong>Description: </strong>My graduation project which trying to improve the programming skills of our users by providing pre-defined problems created by programming experts.  
+     <strong>Description: </strong>My graduation project which improves the programming skills of our users by providing pre-defined problems created by programming experts.  
     <strong>Tools: </strong> Angular, Docker, Node JS, Python, Microservices & Kafka.
 
 -   ### Mern Blog
 
     <sup><a href="https://react-socialapp.herokuapp.com/" target="_blank">https://react-socialapp.herokuapp.com/</a></sup>  
-     <strong>Description: </strong>A blog site which allows users to interact with each other by sharing posts or replay to a post and follow other users.  
+     <strong>Description: </strong>A blog site which allows users to interact with each other by sharing posts or reply to a post and follow other users.  
     <strong>Tools: </strong> React, Redux, Node JS & Express JS.
 
 ## Operating System
 
-&nbsp;&nbsp;&nbsp;&nbsp;I have been using Linux (Mint distro) for 2 years. Also I have used WSL
-(Windows sub system Linux). However WSL has a way poor performance in
-comparison with Linux.
+I have been using Linux (Mint distro) for 2 years. Also I have used WSL (Windows subsystem Linux). However WSL has a poor performance in comparison with Linux.
 
 ## Education [2016 / 2021]
 
-&nbsp;&nbsp;&nbsp;&nbsp;I were a student in Mansoura university, Studied computer science and
-embedded systems in faculty of engineering .
+I was a student in Mansoura university, Studied computer science and embedded systems in the faculty of engineering
 
 ## Languages
 
@@ -127,3 +122,7 @@ embedded systems in faculty of engineering .
 <strong>Github: </strong><a href="https://github.com/MohamedElmdary" target="_blank">https://github.com/MohamedElmdary</a>  
 <strong>Linkedin: </strong><a href="https://www.linkedin.com/in/mohamed-elmdary/" target="_blank">https://www.linkedin.com/in/mohamed-elmdary/</a>  
 <strong>ThemeForest: </strong><a href="https://themeforest.net/user/mohamedelmdary" target="_blank">https://themeforest.net/user/mohamedelmdary</a>
+
+<button>
+    Download
+</button>
