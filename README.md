@@ -122,5 +122,5 @@ I was a student in Mansoura university, Studied computer science and embedded sy
 <br />
 <br />
 <a style="float: right" href="https://raw.githubusercontent.com/MohamedElmdary/cv/master/cv.pdf" target="_blank" download>
-Download
+Download CV
 </a>
