@@ -8,10 +8,6 @@ mohammed.elmdary@gmail.com
 +20 1282859139
 </a>
 
-## Objective
-
-Seeking an opportunity to participate in a collaborating, competitive and creative environment where I can use my experience gained from working as a freelancer in different types of applications which should enhance the overall workflow for the entire team.
-
 ## Skills Summary
 
 -   Front End  
