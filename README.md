@@ -1,3 +1,7 @@
+---
+title: Mohamed Rabie Elmdary | CV
+---
+
 # Mohamed Rabie Elmdary
 
 4st Algalban, Algharbia, Egypt.  
@@ -63,7 +67,7 @@ workflow for the entire team.
         <sup>Public Speaker</sup>  
         Video: <a href="https://youtu.be/bwGe9V5CNbw" target="_blank">
         https://youtu.be/bwGe9V5CNbw
-        </a>
+        </a>  
         Presentation: <a href="https://docs.google.com/presentation/d/1qr9Kf3yX9CUd-CZrsneJvUbkc3WyLm4J/edit" target="_blank">
         https://docs.google.com/presentation/d/1qr9Kf3yX9CUd-CZrsneJvUbkc3WyLm4J/edit
         </a>
