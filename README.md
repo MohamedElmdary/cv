@@ -122,7 +122,9 @@ I was a student in Mansoura university, Studied computer science and embedded sy
 <strong>Github: </strong><a href="https://github.com/MohamedElmdary" target="_blank">https://github.com/MohamedElmdary</a>  
 <strong>Linkedin: </strong><a href="https://www.linkedin.com/in/mohamed-elmdary/" target="_blank">https://www.linkedin.com/in/mohamed-elmdary/</a>  
 <strong>ThemeForest: </strong><a href="https://themeforest.net/user/mohamedelmdary" target="_blank">https://themeforest.net/user/mohamedelmdary</a>
-
-<button>
-    Download
-</button>
+<br />
+<br />
+<br />
+<a style="float: right" href="" target="_blank" download>
+Download
+</a>
