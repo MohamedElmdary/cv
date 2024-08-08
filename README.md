@@ -2,7 +2,7 @@
 
 <a href="mailto:mohammed.elmdary@gmail.com" target="_blank">
 mohammed.elmdary@gmail.com  
-</a>
+</a>  
 <a href="tel:01201097529" target="_blank">
 +20 01201097529
 </a>
@@ -96,56 +96,56 @@ mohammed.elmdary@gmail.com
 
   <sup><a href="https://github.com/threefoldtech/tfgrid-sdk-ts" target="_blank">
   https://github.com/threefoldtech/tfgrid-sdk-ts
-  </a></sup>
-  <strong>Description: </strong>TfGrid SDK is a mono repo contains many packages allows to interact with Threefold Grid(chain), deploy solutions and control theme deployments.
+  </a></sup>  
+  <strong>Description: </strong>TfGrid SDK is a mono repo contains many packages allows to interact with Threefold Grid(chain), deploy solutions and control theme deployments.  
   <strong>Tools: </strong>Lerna, Typescript, Vue3, Yarn
 
 - ### Grid3 Deployment Builder [3 years ago]
 
   <sup><a href="https://github.com/threefoldtech/grid3_deployments_builder" target="_blank">
   https://github.com/threefoldtech/grid3_deployments_builder
-  </a></sup>
-  <strong>Description: </strong>Builder allowing to create a json file follow the required structure in order to make deployment on threefold grid.
+  </a></sup>  
+  <strong>Description: </strong>Builder allowing to create a json file follow the required structure in order to make deployment on threefold grid.  
   <strong>Tools: </strong>Svelte, Typescript
 
 - ### Threefold Wallet Connector Extension [1 year ago]
 
   <sup><a href="https://github.com/threefoldtech/tf-wallet-connector-extension" target="_blank">
   https://github.com/threefoldtech/tf-wallet-connector-extension
-  </a></sup>
-  <strong>Description: </strong>Extension allows users to store their accounts (aka. mnemonic) in an encrypted way, providing an interface for websites to interact with after getting access permission from the user himself.
+  </a></sup>  
+  <strong>Description: </strong>Extension allows users to store their accounts (aka. mnemonic) in an encrypted way, providing an interface for websites to interact with after getting access permission from the user himself.  
   <strong>Tools: </strong>Vue3, Typescript
 
 - ### vue3-notifier [1 year ago]
 
   <sup><a href="https://github.com/MohamedElmdary/vue3-notifier" target="_blank">
   https://github.com/MohamedElmdary/vue3-notifier
-  </a></sup>
+  </a></sup>  
   <sup><a href="https://www.npmjs.com/package/vue3-notifier" target="_blank">
   https://www.npmjs.com/package/vue3-notifier
-  </a></sup>
-  <strong>Description: </strong>vue3-notifier is a powerful notification plugin with a very easy to use interface and high customizability as we gonna discuss in the rest of documentation.
+  </a></sup>  
+  <strong>Description: </strong>vue3-notifier is a powerful notification plugin with a very easy to use interface and high customizability as we gonna discuss in the rest of documentation.  
   <strong>Tools: </strong>Vue3, Typescript
 
 - ### Gridproxy Client [2 year ago]
 
   <sup><a href="https://github.com/MohamedElmdary/gridproxy_client" target="_blank">
   https://github.com/MohamedElmdary/gridproxy_client
-  </a></sup>
+  </a></sup>  
   <sup><a href="https://www.npmjs.com/package/@threefold/gridproxy_client" target="_blank">
   https://www.npmjs.com/package/@threefold/gridproxy_client
-  </a></sup>
-  <strong>Description: </strong>Client allows to interact with Threefold Gridproxy in a very easy way.
+  </a></sup>  
+  <strong>Description: </strong>Client allows to interact with Threefold Gridproxy in a very easy way.  
   <strong>Tools: </strong>Vue3, Typescript
 
 - ### Graphql Client [2 year ago]
   <sup><a href="https://github.com/MohamedElmdary/tfgrid-gql" target="_blank">
   https://github.com/MohamedElmdary/tfgrid-gql
-  </a></sup>
+  </a></sup>  
   <sup><a href="https://www.npmjs.com/package/@threefold/graphql_client" target="_blank">
   https://www.npmjs.com/package/@threefold/graphql_client
-  </a></sup>
-  <strong>Description: </strong>Client allows to interact with Threefold Graphql in a very easy way.
+  </a></sup>  
+  <strong>Description: </strong>Client allows to interact with Threefold Graphql in a very easy way.  
   <strong>Tools: </strong>Vue3, Typescript
 
 ## Operating System
