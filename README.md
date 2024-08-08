@@ -5,26 +5,13 @@
 
 ## Skills Summary
 
-- Front End  
-  HTML5, CSS3, JavaScript, Vue JS, Angular, React JS, Svelte, State Managements, UI Frameworks & Server Side Rendering.
-
-- Back End  
-  Node JS, Express JS, Nest JS, Mongo DB, MySQL, Graphql, Prisma & Apollo Server.
-
-- Soft  
-  Learning new concepts, Work under pressure & Communication ideas clearly and effectively.
-
-- Testing  
-  Jest & Mocha.
-
-- Version Control  
-  git.
-
-- Operating system  
-  Linux (Ubuntu).
-
-- Containerization  
-  Docker.
+- <strong>Front End:</strong> HTML5, CSS3, JavaScript, Vue JS, Angular, React JS, Svelte, State Managements, UI Frameworks & Server Side Rendering.
+- <strong>Back End:</strong> Node JS, Express JS, Nest JS, Mongo DB, MySQL, Graphql, Prisma & Apollo Server.
+- <strong>Soft:</strong> Learning new concepts, Work under pressure & Communication ideas clearly and effectively.
+- <strong>Testing:</strong> Jest & Mocha.
+- <strong>Version Control:</strong> git.
+- <strong>Operating system:</strong> Linux (Ubuntu).
+- <strong>Containerization:</strong> Docker.
 
 ## Experience
 
