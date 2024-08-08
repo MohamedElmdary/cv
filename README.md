@@ -1,11 +1,7 @@
 # Mohamed Rabie Elmdary
 
-<a href="mailto:mohammed.elmdary@gmail.com" target="_blank">
-mohammed.elmdary@gmail.com  
-</a>  
-<a href="tel:01201097529" target="_blank">
-+20 01201097529
-</a>
+<a href="mailto:mohammed.elmdary@gmail.com" target="_blank">mohammed.elmdary@gmail.com</a><br />
+<a href="tel:01201097529" target="_blank">+20 01201097529</a>
 
 ## Skills Summary
 
@@ -21,74 +17,46 @@ mohammed.elmdary@gmail.com
 - Testing  
   Jest & Mocha.
 
-- Other
+- Version Control  
+  git.
+
+- Operating system  
+  Linux (Ubuntu).
+
+- Containerization  
   Docker.
 
 ## Experience
 
-- ### Work
+- ### Codescalers [2021 till now]
 
-  - Codescalers [2021 till now]  
-    <sup>Software Engineer</sup>  
-    I have been building a lot of ui software which supports <a href="https://coinmarketcap.com/currencies/threefold/" target="_blank">TFT (Threefold Token)</a>
+  <sup>Software Engineer</sup>  
+  I have been building a lot of ui software which supports <a href="https://coinmarketcap.com/currencies/threefold/" target="_blank">TFT (Threefold Token)</a>
 
-    - <a href="https://dashboard.dev.grid.tf/" target="_blank">TF Dashboard</a> which contains multiple project
-      1. `Pricing Calculator` which allows to calculate cost you need to pay in order to reserve a node.
-      2. `Nodes Explorer(Node Finder)` listing nodes and allowing to filter them to find the node matching you needs.
-      3. `Virtual Machines / Orchestrators / Applications` available solutions that you can install & use easily in no time.
-      4. `Farms Explorer(Farm Finder` listing frams and allowing to filter them.
+  - <a href="https://dashboard.dev.grid.tf/" target="_blank">TF Dashboard</a> which contains multiple project
+    1. `Pricing Calculator` which allows to calculate cost you need to pay in order to reserve a node.
+    2. `Nodes Explorer(Node Finder)` listing nodes and allowing to filter them to find the node matching you needs.
+    3. `Virtual Machines / Orchestrators / Applications` available solutions that you can install & use easily in no time.
+    4. `Farms Explorer(Farm Finder)` listing frams and allowing to filter them.
 
-  - FreeLancer (Techniyaat) [2024]  
-    <sup>Senior Front End Developer</sup>  
-    Building a community driven website which provide alternatives for hardware products that supports isreal for e.g (switches, routers, ...etc) but it's still under active development.
+- ### FreeLancer (Techniyaat) [2024]
 
-  - Io-Tech [2019 / 2020]  
-     <sup>Senior Front End Developer</sup>  
-     Created a dashboard that allows users to interact with SCADA system using some low level protocols using Angular and Graphql.
+  <sup>Senior Front End Developer</sup>  
+  Building a community driven website which provide alternatives for hardware products that supports isreal for e.g (switches, routers, ...etc) but it's still under active development.
 
-  - FreeLancer [2018 / 2019]  
-    <sup>Mean Stack Developer</sup>  
-    Build whatever the clients want using different tools depends on the project requirements.
+- ### Io-Tech [2019 / 2020]
 
-  - Envato Market [2017 / 2018]  
-     <sup>Front End Developer</sup>  
-     Creating static websites which allow users to show contents about advertisements or personal information.
+  <sup>Senior Front End Developer</sup>  
+   Created a dashboard that allows users to interact with SCADA system using some low level protocols using Angular and Graphql.
 
-- ### Volunteering
+- ### FreeLancer [2018 / 2019]
 
-  - Cat Reloaded Team [2018 / 2021]  
-    <sup>Front End Team Leader</sup>  
-    CAT Reloaded is an abbreviation for Computer Assistance Team, originally founded on 1996. I became the front end team leader at 2020 till 2021 before I graduated.
+  <sup>Mean Stack Developer</sup>  
+  Build whatever the clients want using different tools depends on the project requirements.
 
-  - Get started with React [2019]  
-    <sup>Public Speaker</sup>  
-    Video: <a href="https://youtu.be/EIxHoUeK_Mo" target="_blank">
-    https://youtu.be/EIxHoUeK_Mo
-    </a>  
-    Presentation: <a href="https://github.com/MohamedElmdary/frameworks-presentation" target="_blank">
-    https://github.com/MohamedElmdary/frameworks-presentation
-    </a>
-
-  - Step into Front End [2020]  
-    <sup>Public Speaker</sup>  
-    Video: <a href="https://youtu.be/bwGe9V5CNbw" target="_blank">
-    https://youtu.be/bwGe9V5CNbw
-    </a>  
-    Presentation: <a href="https://docs.google.com/presentation/d/1qr9Kf3yX9CUd-CZrsneJvUbkc3WyLm4J/edit" target="_blank">
-    https://docs.google.com/presentation/d/1qr9Kf3yX9CUd-CZrsneJvUbkc3WyLm4J/edit
-    </a>
-
-  - Async Javascript  
-    <sup>Public Speaker</sup>  
-    Presentation: <a href="https://github.com/MohamedElmdary/js-async-presentation" target="_blank">
-    https://github.com/MohamedElmdary/js-async-presentation
-    </a>
-
-  - Build Redux From Scratch  
-    <sup>Public Speaker</sup>  
-    Presentation: <a href="https://github.com/MohamedElmdary/redux-from-scratch" target="_blank">
-    https://github.com/MohamedElmdary/redux-from-scratch
-    </a>
+- ### Envato Market [2017 / 2018]
+  <sup>Front End Developer</sup>  
+   Creating static websites which allow users to show contents about advertisements or personal information.
 
 ## Projects
 
@@ -139,6 +107,7 @@ mohammed.elmdary@gmail.com
   <strong>Tools: </strong>Vue3, Typescript
 
 - ### Graphql Client [2 year ago]
+
   <sup><a href="https://github.com/MohamedElmdary/tfgrid-gql" target="_blank">
   https://github.com/MohamedElmdary/tfgrid-gql
   </a></sup>  
@@ -148,13 +117,45 @@ mohammed.elmdary@gmail.com
   <strong>Description: </strong>Client allows to interact with Threefold Graphql in a very easy way.  
   <strong>Tools: </strong>Vue3, Typescript
 
-## Operating System
+## Education
 
-I have been using Linux (Mint distro) for 5 years. Also I have used WSL (Windows subsystem Linux). However WSL has a poor performance in comparison with Linux.
+Studied computer science and embedded systems in the faculty of engineering at Mansoura university [2016 / 2021]
 
-## Education [2016 / 2021]
+## Volunteering Experience
 
-I was a student in Mansoura university, Studied computer science and embedded systems in the faculty of engineering
+- Cat Reloaded Team [2018 / 2021]  
+  <sup>Front End Team Leader</sup>  
+  CAT Reloaded is an abbreviation for Computer Assistance Team, originally founded on 1996. I became the front end team leader at 2020 till 2021 before I graduated.
+
+- Get started with React [2019]  
+  <sup>Public Speaker</sup>  
+  Video: <a href="https://youtu.be/EIxHoUeK_Mo" target="_blank">
+  https://youtu.be/EIxHoUeK_Mo
+  </a>  
+  Presentation: <a href="https://github.com/MohamedElmdary/frameworks-presentation" target="_blank">
+  https://github.com/MohamedElmdary/frameworks-presentation
+  </a>
+
+- Step into Front End [2020]  
+  <sup>Public Speaker</sup>  
+  Video: <a href="https://youtu.be/bwGe9V5CNbw" target="_blank">
+  https://youtu.be/bwGe9V5CNbw
+  </a>  
+  Presentation: <a href="https://docs.google.com/presentation/d/1qr9Kf3yX9CUd-CZrsneJvUbkc3WyLm4J/edit" target="_blank">
+  https://docs.google.com/presentation/d/1qr9Kf3yX9CUd-CZrsneJvUbkc3WyLm4J/edit
+  </a>
+
+- Async Javascript  
+  <sup>Public Speaker</sup>  
+  Presentation: <a href="https://github.com/MohamedElmdary/js-async-presentation" target="_blank">
+  https://github.com/MohamedElmdary/js-async-presentation
+  </a>
+
+- Build Redux From Scratch  
+  <sup>Public Speaker</sup>  
+  Presentation: <a href="https://github.com/MohamedElmdary/redux-from-scratch" target="_blank">
+  https://github.com/MohamedElmdary/redux-from-scratch
+  </a>
 
 ## Languages
 
